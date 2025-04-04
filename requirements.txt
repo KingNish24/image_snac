@@ -1,0 +1,9 @@
+# image_snac/requirements.txt
+torch
+torchvision
+numpy
+einops
+huggingface_hub
+requests
+Pillow
+tqdm
